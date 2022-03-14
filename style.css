@@ -1,0 +1,13 @@
+#navbarNav{
+	padding-left: 45vw;
+}
+
+
+
+/* mobil */
+@media only screen and (max-width: 600px) {
+	#navbarNav{
+		padding-left: 0;
+	}
+
+}
